@@ -9,8 +9,8 @@
 <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/Misakacoin&right_color=red" />
 </p>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wangzirui32&theme=dark&layout=compact)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=wangzirui32&show_icons=true&theme=dark&count_private=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Misakacoin&theme=dark&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Misakacoin&show_icons=true&theme=dark&count_private=true)
 ![](https://stats.justsong.cn/api/csdn?id=m0_53015671&theme=dark)
 ![](https://stats.justsong.cn/api/bilibili/?id=15359899&theme=dark)
 ![](https://activity-graph.herokuapp.com/graph?username=Misakacoin&theme=github)
